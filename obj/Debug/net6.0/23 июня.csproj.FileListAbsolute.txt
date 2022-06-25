@@ -1,0 +1,15 @@
+C:\Users\Эдьвира\source\repos\23 июня\bin\Debug\net6.0\23 июня.exe
+C:\Users\Эдьвира\source\repos\23 июня\bin\Debug\net6.0\23 июня.deps.json
+C:\Users\Эдьвира\source\repos\23 июня\bin\Debug\net6.0\23 июня.runtimeconfig.json
+C:\Users\Эдьвира\source\repos\23 июня\bin\Debug\net6.0\23 июня.dll
+C:\Users\Эдьвира\source\repos\23 июня\bin\Debug\net6.0\23 июня.pdb
+C:\Users\Эдьвира\source\repos\23 июня\obj\Debug\net6.0\23 июня.csproj.AssemblyReference.cache
+C:\Users\Эдьвира\source\repos\23 июня\obj\Debug\net6.0\23 июня.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Эдьвира\source\repos\23 июня\obj\Debug\net6.0\23 июня.AssemblyInfoInputs.cache
+C:\Users\Эдьвира\source\repos\23 июня\obj\Debug\net6.0\23 июня.AssemblyInfo.cs
+C:\Users\Эдьвира\source\repos\23 июня\obj\Debug\net6.0\23 июня.csproj.CoreCompileInputs.cache
+C:\Users\Эдьвира\source\repos\23 июня\obj\Debug\net6.0\23 июня.dll
+C:\Users\Эдьвира\source\repos\23 июня\obj\Debug\net6.0\refint\23 июня.dll
+C:\Users\Эдьвира\source\repos\23 июня\obj\Debug\net6.0\23 июня.pdb
+C:\Users\Эдьвира\source\repos\23 июня\obj\Debug\net6.0\23 июня.genruntimeconfig.cache
+C:\Users\Эдьвира\source\repos\23 июня\obj\Debug\net6.0\ref\23 июня.dll
